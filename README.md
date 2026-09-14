@@ -1,20 +1,28 @@
 # 👋 Hi, I'm Shashika Rajaguru
+<p align="left">
 
-🎓 Information Technology Undergraduate at the **University of Moratuwa, Sri Lanka**
-💻 Full Stack Developer in Progress
-🤖 Exploring Artificial Intelligence & Intelligent Systems
-📸 Photographer & Videographer
+<a href="https://github.com/shamma2000">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://neshanrajaguru.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/> </a>
+
+</p>
 
 
 ---
 
 ## 💫 About Me
 
-I'm an Information Technology undergraduate at the University of Moratuwa with an interest in **software development, artificial intelligence, and creative technology**.
-
-I enjoy building practical applications that combine technology with real-world problems. I'm currently developing my skills in **full-stack development, databases, AI, and software engineering**.
-
-Beyond technology, I'm passionate about **photography and videography**, especially capturing people, stories, and memorable moments.
+I'm an Information Technology undergraduate at the University of Moratuwa with an interest in **software development, artificial intelligence, and creative technology**
 
 * 🎓 B.Sc. (Hons) in Information Technology
 * 💻 Interested in Full Stack Development
@@ -123,31 +131,6 @@ AI
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shamma2000&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
   <img src="https://streak-stats.demolab.com?user=shamma2000&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-## 🏆  Protfolio
-
-<a href="https://neshanrajaguru.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/> </a>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/shamma2000">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
 </p>
 
 ---
