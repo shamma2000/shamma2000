@@ -29,8 +29,8 @@ I'm an Information Technology undergraduate at the University of Moratuwa with a
 * 🤖 Exploring AI & Machine Learning
 * 🗄️ Learning Database Systems & Backend Development
 * 📸 Passionate about Photography & Videography
-* 🚀 Building projects and improving every day
-* 🇱🇰 Sri Lanka
+  
+
 
 ---
 
